@@ -1,4 +1,17 @@
-# <p align="center">DOCKER_Info_by_David</p>
+# <p align="center">DOCKER_Intro_by_David</p>
+
+
+<div align="center" > 
+ 
+<a href="#" >[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/DebtanuKhanra)‎</a>
+ 
+</div>
+
+
+
+
+
+
 
 <img width="1000" height="450" src ="https://user-images.githubusercontent.com/102660203/184363078-791e0da1-78fa-4b59-9db4-fad9e65e64d9.png" >
 
@@ -9,8 +22,7 @@
 Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
 
-### Docker Architecture: <!--<a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) </a> -->
-<!--<img  width="400" height="350" src="http://apachebooster.com/kb/wp-content/uploads/2017/09/docker-architecture.png"><img align="right" width="560" height="350" src="https://user-images.githubusercontent.com/102660203/184245036-35a24369-d9e1-474b-a377-011894841259.png">-->
+### Docker Architecture: 
 Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers. The Docker client and daemon can run on the same system, or you can connect a Docker client to a remote Docker daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface. Another Docker client is Docker Compose, that lets you work with applications consisting of a set of containers.
 
 <img width="1000" height="500" src="https://user-images.githubusercontent.com/102660203/184369704-f47f459d-250a-4ca0-8b6b-8a8deb36ad7d.png">
@@ -76,7 +88,7 @@ Docker compose makes it easier to configure and run applications made up of mult
 <img width="1000" height="500" src="https://user-images.githubusercontent.com/102660203/184245008-eaaa2d60-c752-4c8b-b8cb-0a2e61076c0d.png">
 
 
-
+# THANKS 
 
 
 
@@ -96,11 +108,12 @@ Docker compose makes it easier to configure and run applications made up of mult
 
 
 <!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 <img width="560" height="200" src="https://user-images.githubusercontent.com/102660203/184346168-cd92e109-a6ed-4101-bf94-76085a96bb3d.jpg">
-
 <img  width="560" height="400" src="http://apachebooster.com/kb/wp-content/uploads/2017/09/docker-architecture.png">
 <img width="560" height="400" src="https://user-images.githubusercontent.com/102660203/184245036-35a24369-d9e1-474b-a377-011894841259.png">
 <img width="1000" height="450" src="https://user-images.githubusercontent.com/102660203/184245024-32855f22-e625-49a4-8fff-cd81b580bb04.png">
 <img width="1000" height="450" src="https://user-images.githubusercontent.com/102660203/184244756-3a3da576-8730-4b81-aedf-bdeca4961568.png">
- <img width="1000" height="450" src="https://user-images.githubusercontent.com/102660203/184245008-eaaa2d60-c752-4c8b-b8cb-0a2e61076c0d.png">-->
+<img width="1000" height="450" src="https://user-images.githubusercontent.com/102660203/184245008-eaaa2d60-c752-4c8b-b8cb-0a2e61076c0d.png">
+<!--![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![Buy me a coffee](https://img.shields.io/badge/buy%20me-000000?style=plastic&logoColor=white)
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/DebtanuKhanra)‎ -->
