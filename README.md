@@ -89,15 +89,13 @@ Docker compose makes it easier to configure and run applications made up of mult
 
 
 # 📝Note: 
-***I tried to make a note on Docker and also i want to declare that many topics are taken by me from difeerents type of sources.***
+  ***I tried to make a note on Docker and also i want to declare that many topics are taken by me from difeerents type of sources.***<br>
 
-![THANKS](https://img.shields.io/badge/😊Thanks🙏to%20all❤️‍🔥-FFFF00tyle=plastic&logoColor=white)
+<div align="center">
 
-![Buy me a coffee](https://img.shields.io/badge/buy%20me-000000?style=plastic&logoColor=white)
+<img  height="40" src="https://img.shields.io/badge/😊Thanks🙏to%20all❤️‍🔥-000000?style=plastic&logoColor=white">
 
-
-
-😊
+</div>
 
 
 
