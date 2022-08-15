@@ -7,12 +7,6 @@
  
 </div>
 
-
-
-
-
-
-
 <img width="1000" height="450" src ="https://user-images.githubusercontent.com/102660203/184363078-791e0da1-78fa-4b59-9db4-fad9e65e64d9.png" >
 
 # <p align="center"> Introduction to Docker </p>
