@@ -71,7 +71,7 @@ What are Docker images?
 Docker images are read only template that can be used to create containers out of it. These docker images contains all the dependencies for a particular application or any microservice. You can create your own image and upload that onto the DockerHub and at the same time you can also pull the images which are available in the public repositories.
 
 What are Docker containers?
-Docker containers are nothing but the runtime instances of docker images. It contains everthing that is required to run an application or any microservice. It is also possible that more than one image is required to create a container. Docker containers can be referred to as isolated application platform built from one or more docker images.-->
+Docker containers are nothing but the runtime instances of docker images. It contains everthing that is required to run an application or any microservice. It is also possible that more than one image is required to create a container. Docker containers can be referred to as isolated application platform built from one or more docker images-->
 
 
 
