@@ -83,7 +83,7 @@ Docker compose makes it easier to configure and run applications made up of mult
 
 
 # 📝Note: 
-  ***I tried to make a note on Docker and also i want to declare that many topics are taken by me from difeerents type of sources.***<br>
+  ***I try to make a note on Docker and also i want to declare that many topics are taken by me from difeerents type of sources.***<br>
 
 <div align="center">
 
