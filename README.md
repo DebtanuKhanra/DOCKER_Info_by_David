@@ -89,6 +89,7 @@ Docker compose makes it easier to configure and run applications made up of mult
 <div align="center">
 
 <img  height="40" src="https://img.shields.io/badge/😊Thanks🙏to%20all❤️‍🔥-000000?style=plastic&logoColor=white">
+<img height="40" src="https://img.shields.io/badge/DAVID🔥-000000?style=plastic&logoColor=white">
 
 </div>
 
